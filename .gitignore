@@ -1,3 +1,9 @@
+# PlatformIO
+.pio
+.vscode
+node_modules
+__pycache__
+
 # Prerequisites
 *.d
 
